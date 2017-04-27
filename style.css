@@ -1,3 +1,6 @@
+body {
+  background-color: #E4E3B5;
+}
 .Titulo {
 color:green;
 text-align:center;
@@ -7,4 +10,15 @@ text-decoration: underline;
   color:#58C166;
   text-align: left;
   font-weight: bold;
+}
+.Frame{
+  border-top: 2px solid green;
+}
+.Imagen{
+  float: right;
+}
+.FrameTitulo{
+  border: 2px solid black;
+  text-align: center;
+  background-color: grey;
 }
