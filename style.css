@@ -1,0 +1,10 @@
+.Titulo {
+color:green;
+text-align:center;
+text-decoration: underline;
+}
+.Subtitulo {
+  color:#58C166;
+  text-align: left;
+  font-weight: bold;
+}
